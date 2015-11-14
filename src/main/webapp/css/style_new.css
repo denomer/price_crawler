@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.vertical-center
+{
+	  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  	  min-height: 100vh; /* These two lines are counted as one :-)       */
+	  display: flex;
+      align-items: center;
+}
+
+.repsonsibe_image
+{
+	display:inline-block;
+	height:auto;
+	max-width:100%;
+}
+.facebook_button
+{
+	background:url(../images/FBloginbutton.png);
+}
+.fbDescriptionText
+{
+    font-size:18px;
+	font-family:Calibri;
+}
+
+#btnLoginWithFacebook
+{
+	padding:20px;
+}

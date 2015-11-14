@@ -1,0 +1,325 @@
+Error in fetching hotel information: 
+java.lang.NullPointerException
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:34)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.main(MakeMyTripUrlBuilder.java:122)
+Check in date: 09142015 Check out date: 09152015
+Error in fetching hotel information: 
+java.lang.NumberFormatException: For input string: " "
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:54)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:107)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.main(MakeMyTripUrlBuilder.java:122)
+Error in connecting with url: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:443)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:29)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.main(MakeMyTripUrlBuilder.java:122)
+Check in date: 09142015 Check out date: 09152015
+Check in date: 09142015 Check out date: 09152015
+Check in date: 09142015 Check out date: 09152015
+Price URL :http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Check in date: 09142015 Check out date: 09152015
+Price URL :http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Error in fetching hotel information: 
+java.lang.NullPointerException
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:39)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:33)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:64)
+Error occured in fetching price :
+Price URL :MMTPriceDetail [priceUrlViewer=false, priceUrlDisableView=false]
+Error in connecting with url: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:443)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:33)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:33)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:65)
+Check in date: 09142015 Check out date: 09152015
+Connecting to MakeMyTrip Url: 
+java.lang.NullPointerException
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:161)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:107)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:137)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:33)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:65)
+Connecting to MakeMyTrip Url: 
+java.lang.NullPointerException
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:161)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:173)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:107)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:137)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:33)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:65)
+Connecting to MakeMyTrip Url: 
+java.lang.NullPointerException
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:161)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:173)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:173)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:107)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:137)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:33)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:65)
+Connecting to MakeMyTrip Url: 
+java.lang.NullPointerException
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:161)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:173)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:173)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:173)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:107)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:137)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:33)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:65)
+Error occured in fetching price details: 
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=false]
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442233836674]
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442234192527]
+Fetching price data from MMT :http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442234192527
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442234351908]
+Fetching price data from MMT :http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442234351908
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442234865558]
+Fetching price data from MMT :http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442234865558
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442235443476]
+Fetching price data from MMT :http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442235443476
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442235556546]
+Fetching price data from MMT :http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442235556546
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.jsoup.UnsupportedMimeTypeException: Unhandled content type. Must be text/*, application/xml, or application/xhtml+xml. Mimetype=application/json;charset=UTF-8, URL=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442237292306
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:472)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:201)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:121)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:77)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.jsoup.UnsupportedMimeTypeException: Unhandled content type. Must be text/*, application/xml, or application/xhtml+xml. Mimetype=application/json;charset=UTF-8, URL=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442237298873
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:472)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:201)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:213)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:121)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:77)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:443)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:201)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:121)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:77)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442237356561]
+Fetching price data from MMT :http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442237356561
+Error occured in fetching price details: 
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONArray initial value should be a string or collection or array.
+	at org.json.JSONArray.<init>(JSONArray.java:200)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:206)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:122)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONArray initial value should be a string or collection or array.
+	at org.json.JSONArray.<init>(JSONArray.java:200)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:206)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:219)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:122)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONArray initial value should be a string or collection or array.
+	at org.json.JSONArray.<init>(JSONArray.java:200)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:206)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:219)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:219)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:122)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONArray initial value should be a string or collection or array.
+	at org.json.JSONArray.<init>(JSONArray.java:200)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:206)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:219)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:219)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:219)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:122)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=false]
+Fetching price data from MMT :false
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONArray initial value should be a string or collection or array.
+	at org.json.JSONArray.<init>(JSONArray.java:200)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:206)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:122)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442241049072]
+Fetching price data from MMT :http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442241049072
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONObject["searchResponseDTO"] not found.
+	at org.json.JSONObject.get(JSONObject.java:498)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:592)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:209)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:123)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONObject["searchResponseDTO"] not found.
+	at org.json.JSONObject.get(JSONObject.java:498)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:592)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:209)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:226)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:123)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONObject["searchResponseDTO"] not found.
+	at org.json.JSONObject.get(JSONObject.java:498)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:592)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:209)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:226)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:226)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:123)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONObject["searchResponseDTO"] not found.
+	at org.json.JSONObject.get(JSONObject.java:498)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:592)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:209)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:226)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:226)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:226)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:123)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=false]
+Fetching price data from MMT :false
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONObject["searchResponseDTO"] not found.
+	at org.json.JSONObject.get(JSONObject.java:498)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:592)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:210)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:123)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONObject["searchResponseDTO"] not found.
+	at org.json.JSONObject.get(JSONObject.java:498)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:592)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:210)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:227)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:123)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONObject["searchResponseDTO"] not found.
+	at org.json.JSONObject.get(JSONObject.java:498)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:592)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:210)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:227)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:227)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:123)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+org.json.JSONException: JSONObject["searchResponseDTO"] not found.
+	at org.json.JSONObject.get(JSONObject.java:498)
+	at org.json.JSONObject.getJSONObject(JSONObject.java:592)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:210)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:227)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:227)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getAjaxPriceUrl(MakeMyTripUrlBuilder.java:227)
+	at com.repup.pricecrawler.urlbuilder.MakeMyTripUrlBuilder.getMakeMyTripHotelPriceURL(MakeMyTripUrlBuilder.java:123)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:37)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.main(MakeMyTripPriceGrabberService.java:73)
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=false]
+Fetching price data from MMT :false
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442241942460]
+Fetching price data from MMT :http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442241942460
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442242304641]
+Fetching price data from MMT :http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442242304641
+Check in date: 09142015 Check out date: 09152015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442242673397, currentPrice=1620.0]
+Price details: MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09142015&checkout=09152015&searchText=Hotel+International+Inn&hotelId=200803050906255532&area=&ajaxCall=T&i=null&session_cId=1442242673397, currentPrice=1620.0]

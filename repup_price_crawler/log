@@ -1,0 +1,680 @@
+ Fetch hotel information 
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Booking Url: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Make My Trip Url: http://www.makemytrip.com/hotels/vista_park-details-delhi.html
+Expedia Url: https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information
+Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+ Fetch hotel information 
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Booking Url: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Make My Trip Url: http://www.makemytrip.com/hotels/vista_park-details-delhi.html
+Expedia Url: https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information
+Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Booking Url: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Make My Trip Url: http://www.makemytrip.com/hotels/vista_park-details-delhi.html
+Expedia Url: https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information
+Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Booking Url: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Make My Trip Url: http://www.makemytrip.com/hotels/vista_park-details-delhi.html
+Expedia Url: https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information
+Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+Hotel Validation status: true
+Total Hotel OTA Urls: HotelData [hotedId=e4da9ee94f73b7f7014f73c9fc740001, bookingUrl=http://www.booking.com/hotel/in/vista-park.en-gb.html, expediaUrl=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information, goibiboUrl=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, makeMyTripUrl=http://www.makemytrip.com/hotels/vista_park-details-delhi.html]
+Check in date: 09182015 Check out date: 09192015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Price URL :HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561069406, currentPrice=3766.0, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561069406, currentPrice=3766.0, priceDetailType=null]
+ Make My Trip Price Details:HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561069406, currentPrice=3766.0, priceDetailType=MAKEMYTRIP]
+Crawling Goibibo Url: 
+Exception occured:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:443)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:149)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=null]
+Error occured in fetching price :
+Goibibo Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=GOIBIBO]
+Exception at connecting with Expedia: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:75)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Exception at connecting with Expedia: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:75)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Exception at connecting with Expedia: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:75)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Exception at connecting with Expedia: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:75)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=null]
+Error occured in fetching price :
+Expedia Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=EXPEDIA]
+Error in fetching hotel information: 
+java.lang.NullPointerException
+	at com.repup.pricecrawer.price.grabber.MakeMyTripPriceGrabber.getMakeMyTripHotelPriceURL(MakeMyTripPriceGrabber.java:54)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:26)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:87)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=null, priceDetailType=null]
+Error occured in fetching price :
+Booking Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=null, priceDetailType=BOOKING]
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Booking Url: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Make My Trip Url: http://www.makemytrip.com/hotels/vista_park-details-delhi.html
+Expedia Url: https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information
+Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+Hotel Validation status: true
+Total Hotel OTA Urls: HotelData [hotedId=e4da9ee94f73b7f7014f73c9fc740001, bookingUrl=http://www.booking.com/hotel/in/vista-park.en-gb.html, expediaUrl=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information, goibiboUrl=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, makeMyTripUrl=http://www.makemytrip.com/hotels/vista_park-details-delhi.html]
+Check in date: 09182015 Check out date: 09192015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Price URL :HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561390210, currentPrice=3766.0, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561390210, currentPrice=3766.0, priceDetailType=null]
+ Make My Trip Price Details:HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561390210, currentPrice=3766.0, priceDetailType=MAKEMYTRIP]
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Exception occured at fetching prive at Gobibibo:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:443)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:149)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=null]
+Error occured in fetching price :
+Goibibo Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=GOIBIBO]
+Exception at connecting with Expedia: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:75)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Exception at connecting with Expedia: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:75)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Exception at connecting with Expedia: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:75)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Exception at connecting with Expedia: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:75)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=null]
+Error occured in fetching price :
+Expedia Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=EXPEDIA]
+Error in fetching hotel information: 
+java.lang.NullPointerException
+	at com.repup.pricecrawer.price.grabber.MakeMyTripPriceGrabber.getMakeMyTripHotelPriceURL(MakeMyTripPriceGrabber.java:54)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:26)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:87)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=null, priceDetailType=null]
+Error occured in fetching price :
+Booking Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=null, priceDetailType=BOOKING]
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Hotel Validation status: true
+Total Hotel OTA Urls: HotelData [hotedId=e4da9ee94f73b7f7014f73c9fc740001, bookingUrl=http://www.booking.com/hotel/in/vista-park.en-gb.html, expediaUrl=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information, goibiboUrl=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, makeMyTripUrl=http://www.makemytrip.com/hotels/vista_park-details-delhi.html]
+Error in connecting with url: 
+java.net.SocketTimeoutException: connect timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(Unknown Source)
+	at java.net.PlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:439)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at com.repup.pricecrawer.price.grabber.MakeMyTripPriceGrabber.getMakeMyTripHotelPriceURL(MakeMyTripPriceGrabber.java:44)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:26)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:50)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Check in date: 09182015 Check out date: 09192015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Price URL :HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561516441, currentPrice=3766.0, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561516441, currentPrice=3766.0, priceDetailType=null]
+ Make My Trip Price Details:HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561516441, currentPrice=3766.0, priceDetailType=MAKEMYTRIP]
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Exception occured at fetching prive at Gobibibo:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:443)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:149)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=null]
+Error occured in fetching price :
+Goibibo Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=GOIBIBO]
+Price selected: 3734
+Price URL :HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Expedia Price Details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=EXPEDIA]
+Error in fetching hotel information: 
+java.lang.NullPointerException
+	at com.repup.pricecrawer.price.grabber.MakeMyTripPriceGrabber.getMakeMyTripHotelPriceURL(MakeMyTripPriceGrabber.java:54)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:26)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:87)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=null, priceDetailType=null]
+Error occured in fetching price :
+Booking Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=null, priceDetailType=BOOKING]
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Hotel Validation status: true
+Total Hotel OTA Urls: HotelData [hotedId=e4da9ee94f73b7f7014f73c9fc740001, bookingUrl=http://www.booking.com/hotel/in/vista-park.en-gb.html, expediaUrl=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information, goibiboUrl=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, makeMyTripUrl=http://www.makemytrip.com/hotels/vista_park-details-delhi.html]
+Check in date: 09182015 Check out date: 09192015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Price URL :HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561814271, currentPrice=3766.0, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561814271, currentPrice=3766.0, priceDetailType=null]
+ Make My Trip Price Details:HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442561814271, currentPrice=3766.0, priceDetailType=MAKEMYTRIP]
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:443)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:149)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=null]
+Error occured in fetching price :
+Goibibo Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=GOIBIBO]
+Price selected: 3734
+Price URL :HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Expedia Price Details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=EXPEDIA]
+Error in fetching hotel information: 
+java.lang.NullPointerException
+	at com.repup.pricecrawer.price.grabber.MakeMyTripPriceGrabber.getMakeMyTripHotelPriceURL(MakeMyTripPriceGrabber.java:54)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:26)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:87)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=null, priceDetailType=null]
+Error occured in fetching price :
+Booking Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=null, priceDetailType=BOOKING]
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080844fdf65e7014fdf68515b0001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Hotel Validation status: true
+Total Hotel OTA Urls: HotelData [hotedId=e4da9ee94f73b7f7014f73c9fc740001, bookingUrl=http://www.booking.com/hotel/in/vista-park.en-gb.html, expediaUrl=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information, goibiboUrl=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, makeMyTripUrl=http://www.makemytrip.com/hotels/vista_park-details-delhi.html]
+Check in date: 09182015 Check out date: 09192015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Price URL :HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442562321253, currentPrice=3766.0, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442562321253, currentPrice=3766.0, priceDetailType=null]
+ Make My Trip Price Details:HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442562321253, currentPrice=3766.0, priceDetailType=MAKEMYTRIP]
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+org.json.JSONException: JSONArray[0] not found.
+	at org.json.JSONArray.get(JSONArray.java:234)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:157)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=null]
+Error occured in fetching price :
+Goibibo Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=GOIBIBO]
+Price selected: 3734
+Price URL :HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Expedia Price Details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=EXPEDIA]
+Fetching price data for booking: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Checkin Day: 18 Checkin year-month2015-9
+Checkout Day: 19 Checkout year-month2015-9
+Price Information from Booking:  3720
+Price URL :HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=12a84e3eb4a318e0c8569a3494235686&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D12a84e3eb4a318e0c8569a3494235686%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=12a84e3eb4a318e0c8569a3494235686&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D12a84e3eb4a318e0c8569a3494235686%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=12a84e3eb4a318e0c8569a3494235686&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D12a84e3eb4a318e0c8569a3494235686%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=12a84e3eb4a318e0c8569a3494235686&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D12a84e3eb4a318e0c8569a3494235686%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Booking Price Details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=12a84e3eb4a318e0c8569a3494235686&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D12a84e3eb4a318e0c8569a3494235686%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=12a84e3eb4a318e0c8569a3494235686&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D12a84e3eb4a318e0c8569a3494235686%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=BOOKING]
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080844fdf65e7014fdf68515b0001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Hotel Validation status: true
+Total Hotel OTA Urls: HotelData [hotedId=e4da9ee94f73b7f7014f73c9fc740001, bookingUrl=http://www.booking.com/hotel/in/vista-park.en-gb.html, expediaUrl=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information, goibiboUrl=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, makeMyTripUrl=http://www.makemytrip.com/hotels/vista_park-details-delhi.html]
+Check in date: 09182015 Check out date: 09192015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Price URL :HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442562453724, currentPrice=3766.0, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442562453724, currentPrice=3766.0, priceDetailType=null]
+ Make My Trip Price Details:HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442562453724, currentPrice=3766.0, priceDetailType=MAKEMYTRIP]
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+org.json.JSONException: JSONArray[0] not found.
+	at org.json.JSONArray.get(JSONArray.java:234)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:157)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:176)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=null]
+Error occured in fetching price :
+Goibibo Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=GOIBIBO]
+Price selected: 3734
+Price URL :HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Expedia Price Details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=EXPEDIA]
+Fetching price data for booking: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Checkin Day: 18 Checkin year-month2015-9
+Checkout Day: 19 Checkout year-month2015-9
+Price Information from Booking:  3720
+Price URL :HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=b5c5bb0e8d2df38919858065d082676d&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Db5c5bb0e8d2df38919858065d082676d%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=b5c5bb0e8d2df38919858065d082676d&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Db5c5bb0e8d2df38919858065d082676d%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=b5c5bb0e8d2df38919858065d082676d&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Db5c5bb0e8d2df38919858065d082676d%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=b5c5bb0e8d2df38919858065d082676d&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Db5c5bb0e8d2df38919858065d082676d%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Booking Price Details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=b5c5bb0e8d2df38919858065d082676d&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Db5c5bb0e8d2df38919858065d082676d%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=b5c5bb0e8d2df38919858065d082676d&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Db5c5bb0e8d2df38919858065d082676d%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=BOOKING]
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080844fdf65e7014fdf68515b0001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Hotel Validation status: true
+Total Hotel OTA Urls: HotelData [hotedId=e4da9ee94f73b7f7014f73c9fc740001, bookingUrl=http://www.booking.com/hotel/in/vista-park.en-gb.html, expediaUrl=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information, goibiboUrl=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, makeMyTripUrl=http://www.makemytrip.com/hotels/vista_park-details-delhi.html]
+Check in date: 09182015 Check out date: 09192015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Connecting to MakeMyTrip Url: 
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:443)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at com.repup.pricecrawer.price.grabber.MakeMyTripPriceGrabber.getAjaxPriceUrl(MakeMyTripPriceGrabber.java:203)
+	at com.repup.pricecrawer.price.grabber.MakeMyTripPriceGrabber.getMakeMyTripHotelPriceURL(MakeMyTripPriceGrabber.java:124)
+	at com.repup.pricecrawler.services.MakeMyTripPriceGrabberService.grabPriceDetials(MakeMyTripPriceGrabberService.java:26)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:50)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Price URL :HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442562839520, currentPrice=3766.0, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442562839520, currentPrice=3766.0, priceDetailType=null]
+ Make My Trip Price Details:HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442562839520, currentPrice=3766.0, priceDetailType=MAKEMYTRIP]
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+org.json.JSONException: JSONArray[0] not found.
+	at org.json.JSONArray.get(JSONArray.java:234)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:157)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+org.json.JSONException: JSONArray[0] not found.
+	at org.json.JSONArray.get(JSONArray.java:234)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:157)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+org.json.JSONException: JSONArray[0] not found.
+	at org.json.JSONArray.get(JSONArray.java:234)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:157)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Crawling Goibibo Url: 
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+org.json.JSONException: JSONArray[0] not found.
+	at org.json.JSONArray.get(JSONArray.java:234)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:157)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=null]
+Error occured in fetching price :
+Goibibo Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=GOIBIBO]
+Price selected: 3734
+Price URL :HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Expedia Price Details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=EXPEDIA]
+Fetching price data for booking: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Checkin Day: 18 Checkin year-month2015-9
+Checkout Day: 19 Checkout year-month2015-9
+Price Information from Booking:  3720
+Price URL :HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=4e2a8a3b1d1923bc9a9fe7d59730727f&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D4e2a8a3b1d1923bc9a9fe7d59730727f%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=4e2a8a3b1d1923bc9a9fe7d59730727f&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D4e2a8a3b1d1923bc9a9fe7d59730727f%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=4e2a8a3b1d1923bc9a9fe7d59730727f&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D4e2a8a3b1d1923bc9a9fe7d59730727f%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=4e2a8a3b1d1923bc9a9fe7d59730727f&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D4e2a8a3b1d1923bc9a9fe7d59730727f%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Booking Price Details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=4e2a8a3b1d1923bc9a9fe7d59730727f&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D4e2a8a3b1d1923bc9a9fe7d59730727f%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=4e2a8a3b1d1923bc9a9fe7d59730727f&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D4e2a8a3b1d1923bc9a9fe7d59730727f%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=BOOKING]
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080844fdf65e7014fdf68515b0001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Hotel Validation status: true
+Total Hotel OTA Urls: HotelData [hotedId=e4da9ee94f73b7f7014f73c9fc740001, bookingUrl=http://www.booking.com/hotel/in/vista-park.en-gb.html, expediaUrl=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information, goibiboUrl=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, makeMyTripUrl=http://www.makemytrip.com/hotels/vista_park-details-delhi.html]
+Check in date: 09182015 Check out date: 09192015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Price URL :HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442563101745, currentPrice=3766.0, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442563101745, currentPrice=3766.0, priceDetailType=null]
+ Make My Trip Price Details:HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442563101745, currentPrice=3766.0, priceDetailType=MAKEMYTRIP]
+Crawling Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+org.json.JSONException: JSONArray[0] not found.
+	at org.json.JSONArray.get(JSONArray.java:234)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:157)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Crawling Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+org.json.JSONException: JSONArray[0] not found.
+	at org.json.JSONArray.get(JSONArray.java:234)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:157)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Crawling Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+org.json.JSONException: JSONArray[0] not found.
+	at org.json.JSONArray.get(JSONArray.java:234)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:157)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Crawling Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Exception occured at fetching prive at Gobibibo:
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:443)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:149)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:179)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:63)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=null]
+Error occured in fetching price :
+Goibibo Price Details: HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na, priceDetailType=GOIBIBO]
+Price selected: 3734
+Price URL :HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Expedia Price Details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=EXPEDIA]
+Fetching price data for booking: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Checkin Day: 18 Checkin year-month2015-9
+Checkout Day: 19 Checkout year-month2015-9
+Exception at grabbing price for Booking
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTPHeader(Unknown Source)
+	at sun.net.www.http.HttpClient.parseHTTP(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.HttpURLConnection.getResponseCode(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:443)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:465)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawer.price.grabber.BookingPriceGrabber.getPriceInformation(BookingPriceGrabber.java:126)
+	at com.repup.pricecrawer.price.grabber.BookingPriceGrabber.getBookingPriceDetail(BookingPriceGrabber.java:80)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.grabPriceDetials(BookingPriceGrabberService.java:24)
+	at com.repup.pricecrawler.services.PriceGrabberService.grabPriceDetails(PriceGrabberService.java:87)
+	at com.repup.pricecrawler.services.PriceGrabberService.main(PriceGrabberService.java:175)
+Price Information from Booking:  3720
+Price URL :HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=1bd82a2fe7cf5b112ee568434677de14&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D1bd82a2fe7cf5b112ee568434677de14%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=1bd82a2fe7cf5b112ee568434677de14&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D1bd82a2fe7cf5b112ee568434677de14%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=1bd82a2fe7cf5b112ee568434677de14&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D1bd82a2fe7cf5b112ee568434677de14%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=1bd82a2fe7cf5b112ee568434677de14&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D1bd82a2fe7cf5b112ee568434677de14%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Booking Price Details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=1bd82a2fe7cf5b112ee568434677de14&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D1bd82a2fe7cf5b112ee568434677de14%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=1bd82a2fe7cf5b112ee568434677de14&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D1bd82a2fe7cf5b112ee568434677de14%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=BOOKING]
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080844fdf65e7014fdf68515b0001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Hotel Validation status: true
+Total Hotel OTA Urls: HotelData [hotedId=e4da9ee94f73b7f7014f73c9fc740001, bookingUrl=http://www.booking.com/hotel/in/vista-park.en-gb.html, expediaUrl=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information, goibiboUrl=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, makeMyTripUrl=http://www.makemytrip.com/hotels/vista_park-details-delhi.html]
+Check in date: 09182015 Check out date: 09192015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Price URL :HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442565154863, currentPrice=3766.0, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442565154863, currentPrice=3766.0, priceDetailType=null]
+ Make My Trip Price Details:HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442565154863, currentPrice=3766.0, priceDetailType=MAKEMYTRIP]
+Crawling Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Price URL :HotelPriceDetail [priceUrlViewer=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, priceUrlDisableView=http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo, currentPrice=sold out, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, priceUrlDisableView=http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo, currentPrice=sold out, priceDetailType=null]
+Goibibo Price Details: HotelPriceDetail [priceUrlViewer=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, priceUrlDisableView=http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo, currentPrice=sold out, priceDetailType=GOIBIBO]
+Price selected: 3734
+Price URL :HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Expedia Price Details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=EXPEDIA]
+Fetching price data for booking: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Checkin Day: 18 Checkin year-month2015-9
+Checkout Day: 19 Checkout year-month2015-9
+Price Information from Booking:  3720
+Price URL :HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=a439fbe39dc1e4c62b2129ba44512e2c&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Da439fbe39dc1e4c62b2129ba44512e2c%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=a439fbe39dc1e4c62b2129ba44512e2c&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Da439fbe39dc1e4c62b2129ba44512e2c%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=a439fbe39dc1e4c62b2129ba44512e2c&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Da439fbe39dc1e4c62b2129ba44512e2c%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=a439fbe39dc1e4c62b2129ba44512e2c&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Da439fbe39dc1e4c62b2129ba44512e2c%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Booking Price Details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=a439fbe39dc1e4c62b2129ba44512e2c&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Da439fbe39dc1e4c62b2129ba44512e2c%3Bdcid%3D4%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=a439fbe39dc1e4c62b2129ba44512e2c&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3Da439fbe39dc1e4c62b2129ba44512e2c%3Bdcid%3D4%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=BOOKING]
+ Fetch hotel information for id: e4da9ee94f73b7f7014f73c9fc740001
+Total valid hotel list: [1213214, 1213221, 1213231, 1213238, 1213239, 1213250, 1213251, 1213262, 1213263, 1213269, 1213274, 1213279, 1213284, 1213288, 1213289, 1213296, 1213300, 402881854f823a50014f823a96e60001, 402881864f9cbecd014f9cbf24f30001, 402881864fa64680014fa646bb280001, 8a8080844fbfffab014fbffff99a0001, 8a8080844fd9932c014fd99aa4570001, 8a8080844fdec94a014fdecc3de50001, 8a8080844fdf65e7014fdf68515b0001, 8a8080854fd4e5a5014fd4e64b4b0001, 8a8080854fd52280014fd52494d90001, 8a8080854fd542d9014fd54311bf0001, 8a8080874fb62f3d014fb63216ed0001, e4da9ee94f732665014f73305b430001, e4da9ee94f73b7f7014f73c9fc740001]
+ Fetch hotel information 
+Hotel Validation status: true
+Total Hotel OTA Urls: HotelData [hotedId=e4da9ee94f73b7f7014f73c9fc740001, bookingUrl=http://www.booking.com/hotel/in/vista-park.en-gb.html, expediaUrl=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information, goibiboUrl=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, makeMyTripUrl=http://www.makemytrip.com/hotels/vista_park-details-delhi.html]
+Check in date: 09182015 Check out date: 09192015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew
+Price URL :HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442566175415, currentPrice=3766.0, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09182015&checkout=09192015&searchText=Vista+Park&hotelId=200908031430181553&area=&ajaxCall=T&i=null&session_cId=1442566175415, currentPrice=3766.0, priceDetailType=null]
+Crawling Goibibo Url: http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/
+Script Values: Proto: http: Cyclone Domain: cyclone.goibibo.com Cyclone Flavour: v3 Hotel Id: 8859990921936814567 Hotel Name: Vista Wood Hotel City Name : Gurgaon Hotel City id: 1466927038870613796
+URL Encoded is: http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo
+Price URL :HotelPriceDetail [priceUrlViewer=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, priceUrlDisableView=http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo, currentPrice=sold out, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://www.goibibo.com/hotels/vista-wood-hotel-in-gurgaon-8859990921936814567/, priceUrlDisableView=http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%228859990921936814567%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%221466927038870613796-20150925-20150926-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo, currentPrice=sold out, priceDetailType=null]
+Price selected: 3734
+Price URL :HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Gurgaon-Hotels-Vista-Park.h3635777.Hotel-Information?chkin=18%2F09%2F2015&chkout=19%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=3734, priceDetailType=null]
+Fetching price data for booking: http://www.booking.com/hotel/in/vista-park.en-gb.html
+Checkin Day: 18 Checkin year-month2015-9
+Checkout Day: 19 Checkout year-month2015-9
+Price Information from Booking:  3720
+Price URL :HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=83bae970b16b0456e9a9d9b495ac4c4e&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=1&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D83bae970b16b0456e9a9d9b495ac4c4e%3Bdcid%3D1%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=83bae970b16b0456e9a9d9b495ac4c4e&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=1&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D83bae970b16b0456e9a9d9b495ac4c4e%3Bdcid%3D1%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]
+Price details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=83bae970b16b0456e9a9d9b495ac4c4e&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=1&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D83bae970b16b0456e9a9d9b495ac4c4e%3Bdcid%3D1%3B&highlighted_hotels=434896, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=83bae970b16b0456e9a9d9b495ac4c4e&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=1&label=gog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%3Aen-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2096897&checkout_monthday=19&do_availability_check=on&checkin_monthday=18&error_url=%2Fhotel%2Fin%2Fvista-park.en-gb.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-en-in-vistaNpark-unspec-in-com-L%253Aen-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D83bae970b16b0456e9a9d9b495ac4c4e%3Bdcid%3D1%3B&highlighted_hotels=434896, currentPrice= 3720, priceDetailType=null]

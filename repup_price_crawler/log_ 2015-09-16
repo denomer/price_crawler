@@ -1,0 +1,302 @@
+Crawling Goibibo Url: 
+Price URL :MMTPriceDetail [priceUrlViewer=http://www.goibibo.com/hotels/radisson-blu-marina-connaught-place-hotel-in-delhi-6614225257718109937/, priceUrlDisableView=http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%226614225257718109937%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%222820046943342890302-20150923-20150924-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo, currentPrice=5849]
+Price details: MMTPriceDetail [priceUrlViewer=http://www.goibibo.com/hotels/radisson-blu-marina-connaught-place-hotel-in-delhi-6614225257718109937/, priceUrlDisableView=http://cyclone.goibibo.com/rest/hoteldetails/?application=web&contracttype=&hash=2837423032023&formatcode=f2&actionData=%5B%7B%22vhid%22%3A%226614225257718109937%22%2C%22ibp%22%3A%22v3%22%2C%22query%22%3A%222820046943342890302-20150923-20150924-1-1_0-foo%22%2C%22fwdp%22%3A%7B%7D%7D%5D&userid=asd&cur=INR&flavour=v3&callback=foo, currentPrice=5849]
+Check in date: 09162015 Check out date: 09172015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09162015&checkout=09172015&searchText=Radisson+Blu+Marina+Hotel+Connaught+Place&hotelId=201101121621322359&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09162015&checkout=09172015&searchText=Radisson+Blu+Marina+Hotel+Connaught+Place&hotelId=201101121621322359&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09162015&checkout=09172015&searchText=Radisson+Blu+Marina+Hotel+Connaught+Place&hotelId=201101121621322359&area=&ajaxCall=T&i=null&session_cId=1442379892816, currentPrice=5555.0]
+Price details: MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09162015&checkout=09172015&searchText=Radisson+Blu+Marina+Hotel+Connaught+Place&hotelId=201101121621322359&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09162015&checkout=09172015&searchText=Radisson+Blu+Marina+Hotel+Connaught+Place&hotelId=201101121621322359&area=&ajaxCall=T&i=null&session_cId=1442379892816, currentPrice=5555.0]
+Check in date: 09162015 Check out date: 09172015
+Creating json based URL's : http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09162015&checkout=09172015&searchText=Radisson+Blu+Marina+Hotel+Connaught+Place&hotelId=201101121621322359&area=&codd=snew
+Price URL :MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09162015&checkout=09172015&searchText=Radisson+Blu+Marina+Hotel+Connaught+Place&hotelId=201101121621322359&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09162015&checkout=09172015&searchText=Radisson+Blu+Marina+Hotel+Connaught+Place&hotelId=201101121621322359&area=&ajaxCall=T&i=null&session_cId=1442380523230, currentPrice=5555.0]
+Price details: MMTPriceDetail [priceUrlViewer=http://hotelz.makemytrip.com/makemytrip/site/hotels/detail?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09162015&checkout=09172015&searchText=Radisson+Blu+Marina+Hotel+Connaught+Place&hotelId=201101121621322359&area=&codd=snew, priceUrlDisableView=http://hotelz.makemytrip.com/makemytrip/site/hotels/detailJsonData?roomStayQualifier=1e0e&city=DEL&country=IN&checkin=09162015&checkout=09172015&searchText=Radisson+Blu+Marina+Hotel+Connaught+Place&hotelId=201101121621322359&area=&ajaxCall=T&i=null&session_cId=1442380523230, currentPrice=5555.0]
+Exception at connecting with Expedia: https://www.expedia.co.in/Delhi-Hotels-Radisson-Blu-Marina-Hotel-Connaught-Place.h3762530.Hotel-Information
+java.util.regex.PatternSyntaxException: Unexpected internal error near index 3
+Rs\
+   ^
+	at java.util.regex.Pattern.error(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at java.util.regex.Pattern.<init>(Unknown Source)
+	at java.util.regex.Pattern.compile(Unknown Source)
+	at java.lang.String.replaceAll(Unknown Source)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:44)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:67)
+Exception at connecting with Expedia: https://www.expedia.co.in/Delhi-Hotels-Radisson-Blu-Marina-Hotel-Connaught-Place.h3762530.Hotel-Information
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:44)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:67)
+Exception at connecting with Expedia: https://www.expedia.co.in/Delhi-Hotels-Radisson-Blu-Marina-Hotel-Connaught-Place.h3762530.Hotel-Information
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.InputRecord.readFully(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.InputRecord.read(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:439)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:32)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:67)
+Exception at connecting with Expedia: https://www.expedia.co.in/Delhi-Hotels-Radisson-Blu-Marina-Hotel-Connaught-Place.h3762530.Hotel-Information
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.InputRecord.readFully(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.InputRecord.read(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:439)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:32)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:67)
+Exception at connecting with Expedia: https://www.expedia.co.in/Delhi-Hotels-Radisson-Blu-Marina-Hotel-Connaught-Place.h3762530.Hotel-Information
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:44)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:67)
+Exception at connecting with Expedia: https://www.expedia.co.in/Delhi-Hotels-Radisson-Blu-Marina-Hotel-Connaught-Place.h3762530.Hotel-Information
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:44)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:55)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:67)
+Exception at connecting with Expedia: https://www.expedia.co.in/Delhi-Hotels-Radisson-Blu-Marina-Hotel-Connaught-Place.h3762530.Hotel-Information
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.InputRecord.readFully(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.InputRecord.read(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.readRecord(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.performInitialHandshake(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at com.sun.net.ssl.internal.ssl.SSLSocketImpl.startHandshake(Unknown Source)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(Unknown Source)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(Unknown Source)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:439)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:32)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:72)
+Price selected: 6499
+Price selected: 10000
+Price selected: 10000
+Price URL :MMTPriceDetail [priceUrlViewer=https://www.expedia.co.in/Goa-Hotels-The-Leela-Goa.h438378.Hotel-Information?chkin=16%2F09%2F2015&chkout=17%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Goa-Hotels-The-Leela-Goa.h438378.Hotel-Information?chkin=16%2F09%2F2015&chkout=17%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=10000]
+Price details: MMTPriceDetail [priceUrlViewer=https://www.expedia.co.in/Goa-Hotels-The-Leela-Goa.h438378.Hotel-Information?chkin=16%2F09%2F2015&chkout=17%2F09%2F2015&rm1=a2#rooms-and-rates, priceUrlDisableView=https://www.expedia.co.in/Goa-Hotels-The-Leela-Goa.h438378.Hotel-Information?chkin=16%2F09%2F2015&chkout=17%2F09%2F2015&rm1=a2#rooms-and-rates, currentPrice=10000]
+Fetching price data for booking: 
+Fetching price data for booking: http://www.booking.com/hotel/in/international-inn.html
+Checkin Day: 16 Checkin year-month2015-9
+Checkout Day: 17 Checkout year-month2015-9
+Fetching price data for booking: http://www.booking.com/hotel/in/international-inn.html
+Checkin Day: 16 Checkin year-month2015-9
+Checkout Day: 17 Checkout year-month2015-9
+Fetching price data for booking: http://www.booking.com/hotel/in/international-inn.html
+Checkin Day: 16 Checkin year-month2015-9
+Checkout Day: 17 Checkout year-month2015-9
+Fetching price data for booking: http://www.booking.com/hotel/in/international-inn.html
+Checkin Day: 16 Checkin year-month2015-9
+Checkout Day: 17 Checkout year-month2015-9
+Fetching price data for booking: http://www.booking.com/hotel/in/international-inn.html
+Checkin Day: 16 Checkin year-month2015-9
+Checkout Day: 17 Checkout year-month2015-9
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/the-leela-goa.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/the-leela-goa.html
+java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.fill(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at sun.net.www.http.ChunkedInputStream.fastRead(Unknown Source)
+	at sun.net.www.http.ChunkedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection$HttpInputStream.read(Unknown Source)
+	at java.util.zip.InflaterInputStream.fill(Unknown Source)
+	at java.util.zip.InflaterInputStream.read(Unknown Source)
+	at java.util.zip.GZIPInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	at java.io.FilterInputStream.read(Unknown Source)
+	at org.jsoup.helper.DataUtil.readToByteBuffer(DataUtil.java:142)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:483)
+	at org.jsoup.helper.HttpConnection$Response.execute(HttpConnection.java:424)
+	at org.jsoup.helper.HttpConnection.execute(HttpConnection.java:178)
+	at org.jsoup.helper.HttpConnection.get(HttpConnection.java:167)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:41)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/the-leela-goa.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/the-leela-goa.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na]
+Error occured in fetching price :
+Fetching price data for booking: http://www.booking.com/hotel/in/international-inn.html
+Checkin Day: 16 Checkin year-month2015-9
+Checkout Day: 17 Checkout year-month2015-9
+Price Information from Booking:  1620
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/the-leela-goa.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/the-leela-goa.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/the-leela-goa.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/the-leela-goa.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na]
+Error occured in fetching price :
+Fetching price data for booking: http://www.booking.com/hotel/in/the-leela-goa.en-gb.html
+Checkin Day: 16 Checkin year-month2015-9
+Checkout Day: 17 Checkout year-month2015-9
+Price Information from Booking:  10000
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/radisson-blu-dwarka-new-delhi.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:84)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/radisson-blu-dwarka-new-delhi.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:84)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/radisson-blu-dwarka-new-delhi.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:84)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/radisson-blu-dwarka-new-delhi.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.main(ExpediaPriceGrabber.java:84)
+Fetching price data for booking: http://www.booking.com/hotel/in/radisson-blu-dwarka-new-delhi.html
+Checkin Day: 16 Checkin year-month2015-9
+Checkout Day: 17 Checkout year-month2015-9
+Price Information from Booking:  4505
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/radisson-blu-dwarka-new-delhi.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/radisson-blu-dwarka-new-delhi.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/radisson-blu-dwarka-new-delhi.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Exception at connecting with Expedia: http://www.booking.com/hotel/in/radisson-blu-dwarka-new-delhi.html
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.RangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at org.jsoup.select.Elements.get(Elements.java:544)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:43)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawer.price.grabber.ExpediaPriceGrabber.getExpediaPriceDetail(ExpediaPriceGrabber.java:68)
+	at com.repup.pricecrawler.services.ExpediaPriceGrabberService.grabPriceDetials(ExpediaPriceGrabberService.java:27)
+	at com.repup.pricecrawler.services.BookingPriceGrabberService.main(BookingPriceGrabberService.java:42)
+Price URL :HotelPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na]
+Error occured in fetching price :
+Fetching price data for booking: http://www.booking.com/hotel/in/radisson-blu-dwarka-new-delhi.html
+Checkin Day: 16 Checkin year-month2015-9
+Checkout Day: 17 Checkout year-month2015-9
+Price Information from Booking:  4505
+Price URL :HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=85cca0704f3a2252a9e4fc97e9e9576b&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-XX-in-radissonNbluNdwarkaNnewNdelhi-unspec-in-com-L%3Axu-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2106102&checkout_monthday=17&do_availability_check=on&checkin_monthday=16&error_url=%2Fhotel%2Fin%2Fradisson-blu-dwarka-new-delhi.en-us.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-XX-in-radissonNbluNdwarkaNnewNdelhi-unspec-in-com-L%253Axu-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D85cca0704f3a2252a9e4fc97e9e9576b%3Bdcid%3D4%3B&highlighted_hotels=377311, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=85cca0704f3a2252a9e4fc97e9e9576b&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-XX-in-radissonNbluNdwarkaNnewNdelhi-unspec-in-com-L%3Axu-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2106102&checkout_monthday=17&do_availability_check=on&checkin_monthday=16&error_url=%2Fhotel%2Fin%2Fradisson-blu-dwarka-new-delhi.en-us.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-XX-in-radissonNbluNdwarkaNnewNdelhi-unspec-in-com-L%253Axu-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D85cca0704f3a2252a9e4fc97e9e9576b%3Bdcid%3D4%3B&highlighted_hotels=377311, currentPrice= 4505]
+Price details: HotelPriceDetail [priceUrlViewer=http://www.booking.com/searchresults.html?sid=85cca0704f3a2252a9e4fc97e9e9576b&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-XX-in-radissonNbluNdwarkaNnewNdelhi-unspec-in-com-L%3Axu-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2106102&checkout_monthday=17&do_availability_check=on&checkin_monthday=16&error_url=%2Fhotel%2Fin%2Fradisson-blu-dwarka-new-delhi.en-us.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-XX-in-radissonNbluNdwarkaNnewNdelhi-unspec-in-com-L%253Axu-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D85cca0704f3a2252a9e4fc97e9e9576b%3Bdcid%3D4%3B&highlighted_hotels=377311, priceUrlDisableView=http://www.booking.com/searchresults.html?sid=85cca0704f3a2252a9e4fc97e9e9576b&no_redirect_check=1&dest_type=city&checkout_year_month=2015-9&checkin_year_month=2015-9&origin=hp&tab=&dcid=4&label=gog235jc-hotel-XX-in-radissonNbluNdwarkaNnewNdelhi-unspec-in-com-L%3Axu-O%3Aunk-B%3Aunk-N%3AXX-S%3Abo-U%3Ac&aid=356980&dest_id=-2106102&checkout_monthday=17&do_availability_check=on&checkin_monthday=16&error_url=%2Fhotel%2Fin%2Fradisson-blu-dwarka-new-delhi.en-us.html%3Faid%3D356980%3Blabel%3Dgog235jc-hotel-XX-in-radissonNbluNdwarkaNnewNdelhi-unspec-in-com-L%253Axu-O%253Aunk-B%253Aunk-N%253AXX-S%253Abo-U%253Ac%3Bsid%3D85cca0704f3a2252a9e4fc97e9e9576b%3Bdcid%3D4%3B&highlighted_hotels=377311, currentPrice= 4505]

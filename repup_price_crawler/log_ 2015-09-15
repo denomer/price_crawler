@@ -1,0 +1,41 @@
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Crawling Goibibo Url: 
+Exception occured:
+org.json.JSONException: JSONArray[0] not found.
+	at org.json.JSONArray.get(JSONArray.java:234)
+	at com.repup.pricecrawer.price.grabber.GoibiboPriceGrabber.getGoibiboPriceDetail(GoibiboPriceGrabber.java:156)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.grabPriceDetials(GoibiboPriceGrabberService.java:28)
+	at com.repup.pricecrawler.services.GoibiboPriceGrabberService.main(GoibiboPriceGrabberService.java:45)
+Price URL :MMTPriceDetail [priceUrlViewer=false, priceUrlDisableView=false, currentPrice=na]
+Error occured in fetching price :
